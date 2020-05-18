@@ -23,6 +23,7 @@ Minecraft bot. Currently used for stress testing.
 
 * Java 9
 * Minecraft 1.11, 1.12, 1.14 or 1.15 server
+  * Future plans for 1.8 - 1.15+
 
 ## Downloads
 
